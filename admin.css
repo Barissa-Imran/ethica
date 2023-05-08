@@ -1,0 +1,7 @@
+#admin > main {
+    margin: 2rem;
+}
+
+#admin > main >.add_user {
+    color: aqua;
+}
